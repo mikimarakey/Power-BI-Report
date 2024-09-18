@@ -20,6 +20,6 @@ See The Full Dashboard -- [App Power BI Link](https://app.powerbi.com/view?r=eyJ
 Bank Transaction Dashboard
 
 See The Full Dashboard -- [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiNmVjNTYxMTAtOWI2ZS00ZmYzLTg4NzMtZTJlOWE5ZWM4MmEzIiwidCI6ImNjYzExNDA5LTBlYTMtNGE4Ny05M2VhLTk2ODdmM2RhYTczZiJ9)
-![Portfolio Dashboard](Bank Transacton.PNG)
+![Portfolio Dashboard](BankTransacton.PNG)
 
 
