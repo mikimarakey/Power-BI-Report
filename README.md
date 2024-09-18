@@ -1,18 +1,6 @@
-# Navigli Pizza
+# Power BI #
+Power BI Portfolio Data
 
-## Problem Statement
+See The Full Dashboard -- [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiOWQ3NjM4NDctNGEzNi00NjA3LTg0MTQtOGU0OGI1MTgxZDJmIiwidCI6ImNjYzExNDA5LTBlYTMtNGE4Ny05M2VhLTk2ODdmM2RhYTczZiJ9)
 
-This dahboard helps the manager understand their customer better and sales status. It helps the resturant know if their customers satisfied with their services
-
-
-## KPI
-Total sales
-Average Orders in a day
-Average Pizzas in an order
-Total Orders
-What are the peak hours
-Which days are more buzy
-Sales by month
-Prefered size
-Prefered category
-Top 5 Pizza types
+![Portfolio Dashboard](Sales_Analytics_Dashboard.PNG)
