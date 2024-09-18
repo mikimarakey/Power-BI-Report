@@ -10,3 +10,9 @@ Financial Reporting Dashboard
 
 See The Full Dashboard -- [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMjE1ZDExYWMtNTYyMS00YjdiLTk4N2YtMjU4YzI1MDIyNWVkIiwidCI6ImNjYzExNDA5LTBlYTMtNGE4Ny05M2VhLTk2ODdmM2RhYTczZiJ9)
 ![Portfolio Dashboard](Financial_Reporting.PNG)
+
+Pizza Dashboard
+
+See The Full Dashboard -- [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiOWYzMmVhNmItNThjMi00ZDE4LTg5ZGEtNDBhMDZiOGVjZjMxIiwidCI6ImNjYzExNDA5LTBlYTMtNGE4Ny05M2VhLTk2ODdmM2RhYTczZiJ9)
+![Portfolio Dashboard](Pizza.PNG)
+
