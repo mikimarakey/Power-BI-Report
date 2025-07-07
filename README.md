@@ -36,6 +36,11 @@ Ethiopian Insurance Data Dashboard
 See The Full Dashboard -- [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiY2ZlMGI4YjMtMmRiNi00NjkyLWE3OTgtYjRiNmRkZTJlYmNkIiwidCI6ImNjYzExNDA5LTBlYTMtNGE4Ny05M2VhLTk2ODdmM2RhYTczZiJ9)
 ![Portfolio Dashboard](EIC.png)
 
+DataViz Technology
+
+See The Full Dashboard -- [App Power BI Link].(https://app.powerbi.com/view?r=eyJrIjoiNjNjYWI1NDItNTcxMi00YWVlLTkyYzQtMWY3ZTA3ODdhZGViIiwidCI6ImNjYzExNDA5LTBlYTMtNGE4Ny05M2VhLTk2ODdmM2RhYTczZiJ9).
+![Portfolio Dashboard].(Dataviz.png).
+
 
 
 
